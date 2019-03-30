@@ -1,0 +1,48 @@
+body {
+  text-align: center;
+  background-color: rgb(29, 235, 207);
+}
+
+ul {
+  list-style-type: none;
+  text-align: left;
+  padding: 0px;
+  margin: 0px;
+}
+
+#description {
+  display: flex;
+  background-color: #fff;
+  justify-content: center;
+}
+
+#survey-form {
+  display: block;
+  background-color: #fff;
+  padding: 20px 0px;
+  margin: 0 20%;
+}
+
+.input_field {
+  width: 175px;
+  height: 15px;
+}
+
+#block {
+  margin-top: 10px;
+  padding: 5px;
+}
+.left_block {
+  display: inline-block;
+  text-align: right;
+  width: 40%;
+
+  vertical-align: top;
+}
+
+.right_block {
+  display: inline-block;
+  text-align: left;
+  width: 48%;
+  vertical-align: middle;
+}
